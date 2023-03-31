@@ -91,6 +91,9 @@ nav ul li a.active, a:hover {
     #check:checked ~ ul {
         left:0;
     }
+    label.logo {
+        size: 80%;
+    }
 }
 
 label.logo {
